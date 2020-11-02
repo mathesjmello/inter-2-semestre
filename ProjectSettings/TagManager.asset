@@ -9,6 +9,7 @@ TagManager:
   - Energy Sphere
   - Enemy
   - Escudo
+  - WinPanel
   layers:
   - Default
   - TransparentFX
@@ -45,6 +46,9 @@ TagManager:
   m_SortingLayers:
   - name: Background
     uniqueID: 1961729731
+    locked: 0
+  - name: Fogo
+    uniqueID: 2541312607
     locked: 0
   - name: Default
     uniqueID: 0
